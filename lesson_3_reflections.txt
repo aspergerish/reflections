@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather than keep all your work local?
+
+It is a backup.
+It also allows others to view/use the work.
